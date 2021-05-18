@@ -7,3 +7,4 @@ With thousands of individual managers predicting sales based on their unique cir
  
 
 Since the company is just embarking on this project, the scope has been kept to nine key stores across Europe. The stores are key for the company keeping in mind the revenue and historical prestige associated with them. These stores are numbered - 1,3,8,9,13,25,29,31 and 46.
+Predict sales for the next 6 weeks.
